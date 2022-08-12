@@ -1,8 +1,8 @@
 - # Sobre mim
-- Meu nome é Maria gabriela, mas todos me chamam de Mabi :heart:
-- Meu e-mail é maria.catsrodos.santos@escola.pr.gov.br
+- Meu nome é **Maria gabriela**, mas todos me chamam de **Mabi** :heart:
+- Meu e-mail é maria.gabrielacastrodos.santos@escola.pr.gov.br
 - Gosto de cantar, tocar, assitir séries e filmes
 - Sou muito comunicativa
-- Não sei mexer em quaase nada sobre computação
+- Não sei mexer em quase nada sobre computação :nerd_face:
 - Meu insta é @mabi_castroo
 - Meu twitter é @gmariagabriela_
